@@ -1,1 +1,1 @@
-# stored_data
+# a storage
