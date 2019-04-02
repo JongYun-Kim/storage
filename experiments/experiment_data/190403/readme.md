@@ -5,3 +5,8 @@
 
 
 위에서 부터 아래로 비
+
+
+
+
+22 : use from the lastest data... not stable for a while (202 lines aboutabout)
